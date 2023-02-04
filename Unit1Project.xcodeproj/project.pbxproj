@@ -13,6 +13,7 @@
 		F96183B5298C9441005D48F8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F96183B3298C9441005D48F8 /* Main.storyboard */; };
 		F96183B7298C9443005D48F8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F96183B6298C9443005D48F8 /* Assets.xcassets */; };
 		F96183BA298C9443005D48F8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F96183B8298C9443005D48F8 /* LaunchScreen.storyboard */; };
+		F96183C2298CAB76005D48F8 /* Detail View Controller.swift in Sources */ = {isa = PBXBuildFile; fileRef = F96183C1298CAB76005D48F8 /* Detail View Controller.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		F96183B6298C9443005D48F8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F96183B9298C9443005D48F8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F96183BB298C9443005D48F8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F96183C1298CAB76005D48F8 /* Detail View Controller.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Detail View Controller.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				F96183AD298C9441005D48F8 /* AppDelegate.swift */,
 				F96183AF298C9441005D48F8 /* SceneDelegate.swift */,
 				F96183B1298C9441005D48F8 /* ViewController.swift */,
+				F96183C1298CAB76005D48F8 /* Detail View Controller.swift */,
 				F96183B3298C9441005D48F8 /* Main.storyboard */,
 				F96183B6298C9443005D48F8 /* Assets.xcassets */,
 				F96183B8298C9443005D48F8 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F96183B2298C9441005D48F8 /* ViewController.swift in Sources */,
+				F96183C2298CAB76005D48F8 /* Detail View Controller.swift in Sources */,
 				F96183AE298C9441005D48F8 /* AppDelegate.swift in Sources */,
 				F96183B0298C9441005D48F8 /* SceneDelegate.swift in Sources */,
 			);
